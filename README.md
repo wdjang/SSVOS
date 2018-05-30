@@ -10,13 +10,9 @@ If you want to use this software, please cite:
 W.-D. Jang and C.-S. Kim, "Semi-supervised Video Object Segmentation Using Multiple Random Walkers," In Proceedings of British Machine Vision Conference (BMVC), Sep., (2016)
 
 @inproceedings{jang2016semi-supervised,
-
- title={Semi-supervised Video Object Segmentation Using Multiple Random Walkers},
- 
- author={W.-D. Jang and C.-S. Kim},
- 
- booktitle={BMVC},
- 
+ title={Semi-supervised Video Object Segmentation Using Multiple Random Walkers}, 
+ author={W.-D. Jang and C.-S. Kim}, 
+ booktitle={BMVC}, 
  year={2016}}
  
 
