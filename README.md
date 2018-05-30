@@ -31,12 +31,11 @@ This software was developed under 64-bit Windows with Matlab R2015b.
 
 There is no guarantee it will run on other operating systems or Matlab versions.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Item 1
+2. Item 2
+3. Item 3
+ * Item 3a
+ * Item 3b
 
 
 1. CVX optimizer is required. It can be downloaded at: http://cvxr.com/cvx/
